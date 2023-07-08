@@ -449,6 +449,7 @@ another technology (in general).
     - Variety of Rich Content
     - Free Practice
     - iOS and Android app
+    - **(NOTE)**: For some reason, as of the time of this update to the repository, the website doesn't have all the courses that the mobile app has. 
 
 
 - [freeCodeCamp](https://freecodecamp.org/)
