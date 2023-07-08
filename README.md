@@ -407,10 +407,6 @@ Python is not better than C++ and C++ isn't better than Python.
 
 C++ is not the best programming language. 
 
-Windows is not better than Linux.
-
-Windows is not the best Operating system.
-
 Like said, each technology in Computer Science has its own pros and cons, and may
 excell in a particular task / application, but it does not mean that it is better than
 another technology (in general).
@@ -446,6 +442,12 @@ another technology (in general).
     - Certificates for Members of PRO Subscription
     - Great content
     - Free Quizzes for good practice / knowledge reinforcement
+    - iOS and Android app
+ 
+- [Enki](https://www.enki.com/)
+    - Free Courses (has paid features)
+    - Variety of Rich Content
+    - Free Practice
     - iOS and Android app
 
 
